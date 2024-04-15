@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="center">
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center|start"
+            android:layout_margin="20dp"
+            android:layout_marginTop="40dp"
+            android:textSize="24dp"
+            android:text=" Арифметической прогрессией называется такая последовательность чисел, в которой разность между последующим и предыдущим членами остается неизменной.\n Эта неизменная разность называется разностью прогрессии.
+Любой член арифметической прогрессии можно вычислить по формуле
+a_n=a_1+d(n-1)\n Сумма первых n членов арифметической прогрессии выражается формулой S_n=(a_1+a_n)/n">
+        </TextView>
+    </LinearLayout>
+</androidx.constraintlayout.widget.ConstraintLayout>

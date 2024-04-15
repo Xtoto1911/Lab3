@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Lab3Rel</string>
+    <string name="label">Арифметическая прогрессия</string>
+    <string name="а1">a1</string>
+    <string name="а1Edit">1</string>
+    <string name="d">d</string>
+    <string name="dEdit">2</string>
+    <string name="n">n</string>
+    <string name="nEdit">100</string>
+    <string name="a1Descript">Первый член прогрессии</string>
+    <string name="dDescript">Разность прогрессии</string>
+    <string name="nDescript">№ последнего члена прогрессии</string>
+    <string name="result">Расчитать</string>
+    <string name="noNotes">Есть незаполенные значения!!!</string>
+    <string name="inputEx">Неверный формат ввода</string>
+    <string name="mail">Отправить</string>
+    <string name="an">an</string>
+    <string name="anDescript">Последний член an</string>
+    <string name="Sn">Sn</string>
+    <string name="SnDescript">Сумма арифметической прогрессии Sn</string>
+</resources>
